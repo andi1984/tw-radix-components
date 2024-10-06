@@ -1,0 +1,10 @@
+
+
+> docs@0.1.0 build /home/andreas/dev/tw-radix-components/apps/docs
+> next build
+
+  [1m[38;2;173;127;168m▲ Next.js 14.2.6[39m[22m
+
+ [37m[1m [22m[39m Creating an optimized production build ...
+ [32m[1m✓[22m[39m Compiled successfully
+[?25l [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m[?25h
